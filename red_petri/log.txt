@@ -1,0 +1,11 @@
+A,B,C,E
+A,C,B,E
+A,B,E
+A,B,C,D,E
+A,B,C,D,C,E
+A,B,C,B,E
+A,C,B,D,C,E
+A,B,D,E
+A,B,C,D,B,E
+A,C,D,B,C,E
+
